@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT daveyoon_crowdbotics_93.wsgi:application
